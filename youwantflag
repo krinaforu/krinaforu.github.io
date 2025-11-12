@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Encoded Flag</title>
+  <style>
+    body {
+      font-family: 'Courier New', monospace;
+      background-color: #121212;
+      color: #f8f8f2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      color: #50fa7b;
+    }
+    .encoded {
+      background-color: #282a36;
+      padding: 1rem;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      word-break: break-word;
+      margin-top: 1rem;
+    }
+    .hint {
+      color: #8be9fd;
+      margin-top: 2rem;
+      font-size: 1rem;
+    }
+    a {
+      color: #ff79c6;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Here is your first flag</h1>
+  <p class="encoded">VFVGe1FycGJxcl96cl92c19sYmhfcG5hfQ==</p>
+  
+</body>
+</html>
